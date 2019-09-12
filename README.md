@@ -3,13 +3,17 @@
 
 # 自动挡方案
 直接购买商业VPN
-* Astrill, https://www.astrill.com/, 定价100刀每年
+* Astrill
+
+https://www.astrill.com/, 定价100刀每年
 优点：不怕封禁IP，速度快，傻瓜化，有客服
 缺点：贵，有设备数量限定
 
 ![image](astrill.png)
 
-* Justmysocks, https://justmysocks.net/members/, 定价2.8刀每月
+* Justmysocks
+
+https://justmysocks.net/members/, 定价2.8刀每月
 优点：不怕封禁IP，速度快，便宜
 缺点：有流量限制，有设备数量限定
 
@@ -22,28 +26,40 @@
 
 不过还是推荐选择aws、azure、gcp等平台，这几个都可以随便换ip，防止ip被ban，而且价格其实也不是很贵，因为是正规vps环境，还能干别的事情。而且这几个平台都有免费使用的。
 
- * aws, https://aws.amazon.com/cn/, 新用户免费用一年
+ * aws
+ 
+ https://aws.amazon.com/cn/, 新用户免费用一年
  
 ![image](aws.png)
 
-* azure, https://azure.microsoft.com/zh-cn/
+* azure
+
+https://azure.microsoft.com/zh-cn/
 
 ![image](azure.png)
 
-* gcp, https://cloud.google.com/
+* gcp
+
+https://cloud.google.com/
 
 ![image](gcp.png)
 
 ## 安装shadowsocks
-https://github.com/ziggear/shadowsocks, 按照教程按照shadowsocks即可，此时你已经有自己ss的ip、端口、密码等信息。
+https://github.com/ziggear/shadowsocks
+
+按照教程按照shadowsocks即可，此时你已经有自己ss的ip、端口、密码等信息。
 
 ## 安装shadowsocks客户端
 准备ss客户端，连接即可科学上网。客户端很多
+
 https://github.com/shadowsocks/shadowsocks-android
+
 https://github.com/shadowsocks/ShadowsocksX-NG
+
 https://github.com/shadowsocks/shadowsocks-windows
 
 ## 安装shadowsocks路由器
 有很多支持ss协议的路由器，这样可以在家中所有设备都可以翻墙，比如电视盒子、游戏机等。常见支持的路由器系统比如老毛子、梅林等。
+
 
 
