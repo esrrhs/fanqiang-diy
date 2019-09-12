@@ -2,11 +2,13 @@
 本文适用于非专业人士，有翻墙需求的群体。解决无法翻墙、无法稳定翻墙、无法快速稳定翻墙的痛点。
 
 # 自动挡方案
-直接购买商业VPN
+直接购买商业VPN。注意，一般这些网站都会被墙，导致鸡生蛋蛋生鸡的问题，所以可以和朋友借个vpn先，或者用些免费的vpn先上，比如蓝灯。
 * Astrill
 
 https://www.astrill.com/, 定价100刀每年
+
 优点：不怕封禁IP，速度快，傻瓜化，有客服
+
 缺点：贵，有设备数量限定
 
 ![image](astrill.png)
@@ -14,7 +16,9 @@ https://www.astrill.com/, 定价100刀每年
 * Justmysocks
 
 https://justmysocks.net/members/, 定价2.8刀每月
+
 优点：不怕封禁IP，速度快，便宜
+
 缺点：有流量限制，有设备数量限定
 
 ![image](justmysocks.png)
