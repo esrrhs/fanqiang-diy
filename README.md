@@ -15,7 +15,7 @@ https://www.astrill.com/, 定价100刀每年
 
 * Justmysocks
 
-https://justmysocks.net/members/, 定价2.8刀每月
+https://justmysocks.net/members/aff.php?aff=200, 定价2.8刀每月
 
 优点：不怕封禁IP，速度快，便宜
 
